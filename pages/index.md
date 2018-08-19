@@ -6,4 +6,4 @@ Native speakers––we heartily welcome you! Please consider joining to help us
 
 If you haven't mastered basic conversation skills yet, please check out this [meetup open to Chinese learners of all levels](https://www.meetup.com/chicago-chinese/).
 
-To sign up for our events, please apply for membership on our [Meetup.com page](https://www.meetup.com/chicago-mandarin/).
+To sign up for our events, please apply for membership on our [Meetup.com page](https://www.meetup.com/chicago-mandarin/). Our regular monthly event is every third Saturday of the month at the [Red Lion Pub in Lincoln Square](https://goo.gl/maps/QhdFN1r2giD2). We also occasionally host events at other locations; those are also published on Meetup.com.
