@@ -1,0 +1,31 @@
+header {
+  display: flex;
+  background: tomato;
+  margin-bottom: 1em;
+  justify-content: flex-start;
+}
+
+header a {
+  color: #eee;
+  padding: 0.5em 1em;
+}
+header a:hover {
+  color: #eee;
+  background: coral;
+}
+
+@media (max-width: 800px) {
+  header a {
+    flex: 1;
+    text-align: center;
+  }
+}
+
+@media (max-width: 400px) {
+  header {
+    flex-direction: column;
+  }
+  header a {
+    text-align: center;        
+  }
+}
