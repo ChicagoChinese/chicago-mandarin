@@ -5,3 +5,5 @@ This is a meetup for people who want to practice their spoken Chinese (Mandarin)
 Native speakers––we heartily welcome you! Please consider joining to help us improve our Mandarin. Maybe you'll be able to find a language exchange partner!
 
 If you haven't mastered basic conversation skills yet, please check out this [meetup open to Chinese learners of all levels](https://www.meetup.com/chicago-chinese/).
+
+To sign up for our events, please apply for membership on our [Meetup.com page](https://www.meetup.com/chicago-mandarin/).
