@@ -4,7 +4,6 @@
 // init project
 const fs = require('fs-extra')
 const showdown  = require('showdown')
-const csvParse = require('csv-parse')
 const nunjucks = require('nunjucks')
 const express = require('express')
 
