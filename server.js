@@ -50,7 +50,7 @@ async function renderPage(mdFile) {
       <a href="/notes">Notes</a>
       <a href="/activities">Activities</a>
       <a href="/resources">Resources</a>
-      <a href="/FAQ">FAQ</a>
+      <a href="/faq">FAQ</a>
     </header>
     <main>
       ${body}
